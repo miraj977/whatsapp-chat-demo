@@ -12,7 +12,7 @@ function Chat ({chat, messages})
     return (
         <Container>
             <Head>
-                <title>Chat</title>
+                <title>Chat App</title>
             </Head>
                 <Sidebar />
                 <ChatContainer>
