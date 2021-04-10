@@ -46,7 +46,7 @@ function Sidebar ()
                         <ChatIcon onClick={createChat}/>
                     </IconButton>
                     <IconButton>
-                        <ExitToApp onClick={() => auth.signOut()}/>
+                        <ExitToAppIcon onClick={() => auth.signOut()}/>
                     </IconButton>
                 </IconsContainer>
             </Header>
