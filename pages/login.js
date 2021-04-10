@@ -75,7 +75,7 @@ const BottomMessage = styled.div`
         width: 100%;
     }
     & code > span {
-        color: #00ff09;
+        color: red;
     }
 
      @media only screen and (max-width: 500px){
