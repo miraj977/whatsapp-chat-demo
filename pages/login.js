@@ -32,7 +32,7 @@ function Login ()
                 </LoginContainer>
 
                 <BottomMessage>
-                    <code> <span>Developed by Miraj.</span> Built for educational purpose only.</code>
+                    <code> <span>Developed by Miraj.</span> Built for educational purpose.</code>
                 </BottomMessage>
 
             </Container>
